@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="Toni Liebana" src="https://marketinglab.link/wp-content/uploads/sobre-mi.webp" width="200" >
-</p>
+</p> -->
 
   <h2>👋 Hola! Soy Toni Liébana</h2>
 </p>
