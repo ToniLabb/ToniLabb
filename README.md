@@ -1,16 +1,15 @@
 <p align="center">
-  <img alt="Toni Liebana" src="https://marketinglab.link/wp-content/uploads/sobre-mi.webp">
+  <img alt="Toni Liebana" src="https://marketinglab.link/wp-content/uploads/sobre-mi.webp" width="200" >
 </p>
 
   <h2>👋 Hola! Soy Toni Liébana</h2>
 </p>
 
-
 ### 👨🏼‍💻 &nbsp; Sobre Mi
 
 💻Programador Full Stack MERN con experiencia en SEO, automatización y scraping con Python. Desarrollo APIs con NestJS, interfaces con React.
 
-### ⚙️ &nbsp;GitHub 
+### ⚙️ &nbsp;GitHub
 
 <p align="center">
   <a href="https://github.com/tonilabb">
@@ -19,10 +18,8 @@
   </a>
 </p>
 
-
 ### 🔗 &nbsp; ¿Hablamos?
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sergiecode"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
 </p>
-
