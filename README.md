@@ -21,5 +21,7 @@
 ### 🔗 &nbsp; ¿Hablamos?
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sergiecode"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/antonio-liebana-fernandez/">
+    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" style="width: 200px; height: auto;">
+  </a>
 </p>
