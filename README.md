@@ -18,10 +18,7 @@
   </a>
 </p>
 
-### 🔗 &nbsp; ¿Hablamos?
+### 🔗 &nbsp; Links
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/antonio-liebana-fernandez/">
-    <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" style="width: 100px; height: auto;">
-  </a>
-</p>
+[![Link](https://img.shields.io/badge/Links-marketinglab.link-0077B5?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://marketinglab.link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toni_Liebana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/antonio-liebana-fernandez/)
